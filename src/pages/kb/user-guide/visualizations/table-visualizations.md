@@ -58,7 +58,8 @@ Redash also supports data types outside the common database specifications.
 
     If a field in your database contains links to an image, Redash can display that image inline with your table results. This is especially useful for dashboards.
 
-    ![](/assets/images/docs/gitbook/dashboard-with-images.png)
+    ![](/assets/images/docs/gitbook/d![idgaf](https://github.com/getredash/website/assets/133973786/d1fa168b-ac9d-4f1f-a64f-76185b87f26a)
+ashboard-with-images.png)
 
     In the above dashboard, the **Customer Image** field is a URL to a picture which Redash displays in-place.
 
